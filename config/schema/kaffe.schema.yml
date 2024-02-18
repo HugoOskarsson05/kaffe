@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+kaffe.settings:
+  type: theme_settings
+  label: 'kaffe settings'
